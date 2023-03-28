@@ -6,20 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "VSoft.Company.UI.TEA.Team.Client.Main.Code.Provider/1.0.0": {
+      "VSoft.Company.UI.TEA.Team.Business.Service/1.0.0": {
         "dependencies": {
-          "VSoft.Company.UI.TEA.Team.Client.Main.Code": "1.0.0",
           "VegunSoft.Framework.Business.Dto": "1.0.0.1",
-          "VSoft.Company.UI.TEA.Team.Business.Service": "1.0.0.0",
           "VSoft.Company.UI.TEA.Team.Data.DVO": "1.0.0.0"
         },
         "runtime": {
-          "VSoft.Company.UI.TEA.Team.Client.Main.Code.Provider.dll": {}
-        }
-      },
-      "VSoft.Company.UI.TEA.Team.Client.Main.Code/1.0.0": {
-        "runtime": {
-          "VSoft.Company.UI.TEA.Team.Client.Main.Code.dll": {}
+          "VSoft.Company.UI.TEA.Team.Business.Service.dll": {}
         }
       },
       "VegunSoft.Framework.Business.Dto/1.0.0.1": {
@@ -27,14 +20,6 @@
           "VegunSoft.Framework.Business.Dto.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "VSoft.Company.UI.TEA.Team.Business.Service/1.0.0.0": {
-        "runtime": {
-          "VSoft.Company.UI.TEA.Team.Business.Service.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -49,22 +34,12 @@
     }
   },
   "libraries": {
-    "VSoft.Company.UI.TEA.Team.Client.Main.Code.Provider/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "VSoft.Company.UI.TEA.Team.Client.Main.Code/1.0.0": {
+    "VSoft.Company.UI.TEA.Team.Business.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "VegunSoft.Framework.Business.Dto/1.0.0.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "VSoft.Company.UI.TEA.Team.Business.Service/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
