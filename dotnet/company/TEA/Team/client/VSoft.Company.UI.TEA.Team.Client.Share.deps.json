@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VSoft.Company.UI.TEA.Team.Client.Share/1.0.0": {
+        "dependencies": {
+          "VegunSoft.Framework.Ui.Component": "1.0.0.1"
+        },
+        "runtime": {
+          "VSoft.Company.UI.TEA.Team.Client.Share.dll": {}
+        }
+      },
+      "VegunSoft.Framework.Ui.Component/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Ui.Component.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Paging.Provider.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Paging/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Paging.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VSoft.Company.UI.TEA.Team.Client.Share/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Ui.Component/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Paging/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
