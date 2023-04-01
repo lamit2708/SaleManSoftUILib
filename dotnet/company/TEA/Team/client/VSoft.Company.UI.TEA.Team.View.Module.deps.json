@@ -142,6 +142,14 @@
           }
         }
       },
+      "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Business.Dvo.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
       "VegunSoft.Framework.Business.Dto/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Business.Dto.dll": {
@@ -153,14 +161,6 @@
       "VSoft.Company.TEA.Team.Business.Dto/1.0.0.1": {
         "runtime": {
           "VSoft.Company.TEA.Team.Business.Dto.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
-        "runtime": {
-          "VegunSoft.Framework.Business.Dvo.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -275,17 +275,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VegunSoft.Framework.Business.Dto/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
     "VSoft.Company.TEA.Team.Business.Dto/1.0.0.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

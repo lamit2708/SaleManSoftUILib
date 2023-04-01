@@ -218,14 +218,6 @@
             "fileVersion": "1.0.0.1"
           }
         }
-      },
-      "VegunSoft.Framework.Business.Dto/1.0.0.1": {
-        "runtime": {
-          "VegunSoft.Framework.Business.Dto.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
       }
     }
   },
@@ -369,11 +361,6 @@
       "sha512": ""
     },
     "VegunSoft.Framework.Paging/1.0.0.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "VegunSoft.Framework.Business.Dto/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
