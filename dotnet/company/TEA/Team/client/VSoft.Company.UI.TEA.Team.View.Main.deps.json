@@ -12,6 +12,7 @@
           "Microsoft.AspNetCore.Components.Web": "7.0.4",
           "VSoft.Company.UI.TEA.Team.View.Main.Code": "1.0.0",
           "VegunSoft.Framework.Base.Entity": "1.0.0.1",
+          "VegunSoft.Framework.Display.ExtensionMethods": "1.0.0.1",
           "VegunSoft.Framework.Paging.Provider": "1.0.0.1",
           "VegunSoft.Framework.Ui.Component": "1.0.0.1",
           "VegunSoft.Framework.Value.Property": "1.0.0.1",
@@ -165,6 +166,14 @@
       "VegunSoft.Framework.Base.Entity/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Base.Entity.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Display.ExtensionMethods/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Display.ExtensionMethods.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -330,6 +339,11 @@
       "sha512": ""
     },
     "VegunSoft.Framework.Base.Entity/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Display.ExtensionMethods/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

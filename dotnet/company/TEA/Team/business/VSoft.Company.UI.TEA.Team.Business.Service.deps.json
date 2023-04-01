@@ -9,6 +9,8 @@
       "VSoft.Company.UI.TEA.Team.Business.Service/1.0.0": {
         "dependencies": {
           "VegunSoft.Framework.Business.Dto": "1.0.0.1",
+          "VegunSoft.Framework.Business.Dvo": "1.0.0.1",
+          "VegunSoft.Framework.Display.ExtensionMethods": "1.0.0.1",
           "VegunSoft.Framework.Paging.Provider": "1.0.0.1",
           "VSoft.Company.UI.TEA.Team.Data.DVO": "1.0.0.0"
         },
@@ -19,6 +21,22 @@
       "VegunSoft.Framework.Business.Dto/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Business.Dvo.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Display.ExtensionMethods/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Display.ExtensionMethods.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -57,6 +75,16 @@
       "sha512": ""
     },
     "VegunSoft.Framework.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Display.ExtensionMethods/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
