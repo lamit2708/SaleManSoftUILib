@@ -12,6 +12,7 @@
           "Microsoft.AspNetCore.Components.WebAssembly": "7.0.4",
           "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "7.0.3",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "VSoft.Common.UI.APP.Base.View.Main.Cpn.Code": "1.0.0",
           "VegunSoft.Framework.Api.DtoClient.Cfg": "1.0.0.1",
           "VegunSoft.Framework.Api.DtoClient": "1.0.0.1",
           "VegunSoft.Framework.Api.DtoClient.Provider": "1.0.0.1",
@@ -305,6 +306,11 @@
           "System.Text.Encodings.Web": "7.0.0"
         }
       },
+      "VSoft.Common.UI.APP.Base.View.Main.Cpn.Code/1.0.0": {
+        "runtime": {
+          "VSoft.Common.UI.APP.Base.View.Main.Cpn.Code.dll": {}
+        }
+      },
       "VegunSoft.Framework.Api.DtoClient.Cfg/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Api.DtoClient.Cfg.dll": {
@@ -372,6 +378,14 @@
       "VegunSoft.Framework.Ui.Component/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Ui.Component.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Base.Entity/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Base.Entity.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -589,6 +603,11 @@
       "path": "system.text.json/7.0.0",
       "hashPath": "system.text.json.7.0.0.nupkg.sha512"
     },
+    "VSoft.Common.UI.APP.Base.View.Main.Cpn.Code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VegunSoft.Framework.Api.DtoClient.Cfg/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
@@ -630,6 +649,11 @@
       "sha512": ""
     },
     "VegunSoft.Framework.Ui.Component/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Base.Entity/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
