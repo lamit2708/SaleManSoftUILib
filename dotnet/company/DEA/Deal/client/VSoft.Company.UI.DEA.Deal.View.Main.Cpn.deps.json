@@ -10,7 +10,9 @@
         "dependencies": {
           "Blazored.Toast": "4.1.0",
           "Microsoft.AspNetCore.Components.Web": "7.0.4",
+          "Radzen.Blazor": "4.9.2",
           "VSoft.Company.UI.DEA.Deal.View.Main.Cpn.Code": "1.0.0",
+          "VSoft.Company.UI.DEA.Deal.View.Share": "1.0.0",
           "VegunSoft.Framework.Base.Entity": "1.0.0.1",
           "VegunSoft.Framework.Display.ExtensionMethods": "1.0.0.1",
           "VegunSoft.Framework.Paging.Provider": "1.0.0.1",
@@ -18,7 +20,9 @@
           "VegunSoft.Framework.Value.Property": "1.0.0.1",
           "VSoft.Common.UI.APP.Base.View.Main.Cpn.Code": "1.0.0.0",
           "VSoft.Common.UI.APP.Base.View.Main.Cpn.Code.Provider": "1.0.0.0",
-          "VSoft.Company.UI.DEA.Deal.Data.DVO": "1.0.0.0"
+          "VSoft.Company.UI.CTM.Customer.View.Share": "1.0.0.0",
+          "VSoft.Company.UI.DEA.Deal.Data.DVO": "1.0.0.0",
+          "VSoft.Company.UI.USR.User.View.Share": "1.0.0.0"
         },
         "runtime": {
           "VSoft.Company.UI.DEA.Deal.View.Main.Cpn.dll": {}
@@ -37,6 +41,7 @@
           }
         }
       },
+      "LibSassBuilder/2.0.1": {},
       "Microsoft.AspNetCore.Authorization/7.0.4": {
         "dependencies": {
           "Microsoft.AspNetCore.Metadata": "7.0.4",
@@ -152,6 +157,20 @@
           }
         }
       },
+      "Radzen.Blazor/4.9.2": {
+        "dependencies": {
+          "LibSassBuilder": "2.0.1",
+          "Microsoft.AspNetCore.Components": "7.0.4",
+          "Microsoft.AspNetCore.Components.Web": "7.0.4",
+          "System.Linq.Dynamic.Core": "1.2.22"
+        },
+        "runtime": {
+          "lib/net7.0/Radzen.Blazor.dll": {
+            "assemblyVersion": "4.9.2.0",
+            "fileVersion": "4.9.2.0"
+          }
+        }
+      },
       "System.IO.Pipelines/7.0.0": {
         "runtime": {
           "lib/net7.0/System.IO.Pipelines.dll": {
@@ -160,9 +179,26 @@
           }
         }
       },
+      "System.Linq.Dynamic.Core/1.2.22": {
+        "runtime": {
+          "lib/net6.0/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.2.22.0",
+            "fileVersion": "1.2.22.0"
+          }
+        }
+      },
       "VSoft.Company.UI.DEA.Deal.View.Main.Cpn.Code/1.0.0": {
         "runtime": {
           "VSoft.Company.UI.DEA.Deal.View.Main.Cpn.Code.dll": {}
+        }
+      },
+      "VSoft.Company.UI.DEA.Deal.View.Share/1.0.0": {
+        "dependencies": {
+          "Blazored.Toast": "4.1.0",
+          "Microsoft.AspNetCore.Components.Web": "7.0.4"
+        },
+        "runtime": {
+          "VSoft.Company.UI.DEA.Deal.View.Share.dll": {}
         }
       },
       "VegunSoft.Framework.Base.Entity/1.0.0.1": {
@@ -221,9 +257,25 @@
           }
         }
       },
+      "VSoft.Company.UI.CTM.Customer.View.Share/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.CTM.Customer.View.Share.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "VSoft.Company.UI.DEA.Deal.Data.DVO/1.0.0.0": {
         "runtime": {
           "VSoft.Company.UI.DEA.Deal.Data.DVO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VSoft.Company.UI.USR.User.View.Share/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.USR.User.View.Share.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -234,6 +286,46 @@
           "VegunSoft.Framework.Paging.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.UI.CTM.Customer.Business.Service/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.CTM.Customer.Business.Service.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VSoft.Company.UI.CTM.Customer.Data.DVO/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.CTM.Customer.Data.DVO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Business.Dvo.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.UI.USR.User.Business.Service/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.USR.User.Business.Service.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VSoft.Company.UI.USR.User.Data.DVO/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.USR.User.Data.DVO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -251,6 +343,13 @@
       "sha512": "sha512-k12tFBnMMU67bPoBKLTuR2POcYOz02UtT8Lzyeu8fMv587nO8VaWqFfRMJ8Hxkb1SbxL8lY2WiK9tWAZ934khQ==",
       "path": "blazored.toast/4.1.0",
       "hashPath": "blazored.toast.4.1.0.nupkg.sha512"
+    },
+    "LibSassBuilder/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f+7TWQtCirW94VdzKL9SaAfeSF96TeEqdtDztmTGbndrcUlZZlL6uJLZKQCXQgj1BB3OqX0584OCvqFHrkAusA==",
+      "path": "libsassbuilder/2.0.1",
+      "hashPath": "libsassbuilder.2.0.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authorization/7.0.4": {
       "type": "package",
@@ -336,6 +435,13 @@
       "path": "microsoft.jsinterop/7.0.4",
       "hashPath": "microsoft.jsinterop.7.0.4.nupkg.sha512"
     },
+    "Radzen.Blazor/4.9.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m3iC1A4RF4Bb6zTy3HQN8FDYtmA6jaaxLghtX98NCPhAJhvodxFBH4KScbZLcUHvgsRYvgP0BVSoZNBvneQwyA==",
+      "path": "radzen.blazor/4.9.2",
+      "hashPath": "radzen.blazor.4.9.2.nupkg.sha512"
+    },
     "System.IO.Pipelines/7.0.0": {
       "type": "package",
       "serviceable": true,
@@ -343,7 +449,19 @@
       "path": "system.io.pipelines/7.0.0",
       "hashPath": "system.io.pipelines.7.0.0.nupkg.sha512"
     },
+    "System.Linq.Dynamic.Core/1.2.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PB57h0KkIvCF1X/x7iZZKdgiQSo/5geNrConfaw4KEsbyX25MuAEcLOc5RF5GNycSfC7qwaL4L8Mm6b8uMmcAw==",
+      "path": "system.linq.dynamic.core/1.2.22",
+      "hashPath": "system.linq.dynamic.core.1.2.22.nupkg.sha512"
+    },
     "VSoft.Company.UI.DEA.Deal.View.Main.Cpn.Code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.DEA.Deal.View.Share/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -383,12 +501,47 @@
       "serviceable": false,
       "sha512": ""
     },
+    "VSoft.Company.UI.CTM.Customer.View.Share/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VSoft.Company.UI.DEA.Deal.Data.DVO/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
+    "VSoft.Company.UI.USR.User.View.Share/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VegunSoft.Framework.Paging/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.CTM.Customer.Business.Service/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.CTM.Customer.Data.DVO/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.USR.User.Business.Service/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.USR.User.Data.DVO/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

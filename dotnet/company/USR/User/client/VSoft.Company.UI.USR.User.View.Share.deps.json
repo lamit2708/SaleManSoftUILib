@@ -8,10 +8,21 @@
     ".NETCoreApp,Version=v7.0": {
       "VSoft.Company.UI.USR.User.View.Share/1.0.0": {
         "dependencies": {
-          "VegunSoft.Framework.Ui.Component": "1.0.0.1"
+          "VegunSoft.Framework.Business.Dvo": "1.0.0.1",
+          "VegunSoft.Framework.Ui.Component": "1.0.0.1",
+          "VSoft.Company.UI.USR.User.Business.Service": "1.0.0.0",
+          "VSoft.Company.UI.USR.User.Data.DVO": "1.0.0.0"
         },
         "runtime": {
           "VSoft.Company.UI.USR.User.View.Share.dll": {}
+        }
+      },
+      "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Business.Dvo.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
         }
       },
       "VegunSoft.Framework.Ui.Component/1.0.0.1": {
@@ -19,6 +30,22 @@
           "VegunSoft.Framework.Ui.Component.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.UI.USR.User.Business.Service/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.USR.User.Business.Service.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VSoft.Company.UI.USR.User.Data.DVO/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.USR.User.Data.DVO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -46,7 +73,22 @@
       "serviceable": false,
       "sha512": ""
     },
+    "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VegunSoft.Framework.Ui.Component/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.USR.User.Business.Service/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.USR.User.Data.DVO/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
