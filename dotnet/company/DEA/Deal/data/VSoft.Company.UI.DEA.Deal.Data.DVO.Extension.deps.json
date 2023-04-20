@@ -10,7 +10,8 @@
         "dependencies": {
           "VSoft.Company.UI.DEA.Deal.Data.DVO": "1.0.0",
           "VegunSoft.Framework.Business.Dto": "1.0.0.1",
-          "VSoft.Company.DEA.Deal.Business.Dto": "1.0.0.1"
+          "VSoft.Company.DEA.Deal.Business.Dto": "1.0.0.1",
+          "VSoft.Company.VDT.VDealTag.Business.Dto": "1.0.0.1"
         },
         "runtime": {
           "VSoft.Company.UI.DEA.Deal.Data.DVO.Extension.dll": {}
@@ -32,6 +33,14 @@
       "VSoft.Company.DEA.Deal.Business.Dto/1.0.0.1": {
         "runtime": {
           "VSoft.Company.DEA.Deal.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.VDT.VDealTag.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.VDT.VDealTag.Business.Dto.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -72,6 +81,11 @@
       "sha512": ""
     },
     "VSoft.Company.DEA.Deal.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.VDT.VDealTag.Business.Dto/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

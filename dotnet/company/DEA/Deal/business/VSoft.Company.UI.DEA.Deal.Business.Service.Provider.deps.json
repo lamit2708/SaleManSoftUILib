@@ -16,7 +16,9 @@
           "VSoft.Company.DEA.Deal.Business.Dto": "1.0.0.1",
           "VSoft.Company.DEA.Deal.Client": "1.0.0.1",
           "VSoft.Company.UI.DEA.Deal.Data.DVO": "1.0.0.0",
-          "VSoft.Company.UI.DEA.Deal.Data.DVO.Extension": "1.0.0.0"
+          "VSoft.Company.UI.DEA.Deal.Data.DVO.Extension": "1.0.0.0",
+          "VSoft.Company.VDT.VDealTag.Business.Dto": "1.0.0.1",
+          "VSoft.Company.VDT.VDealTag.Client": "1.0.0.1"
         },
         "runtime": {
           "VSoft.Company.UI.DEA.Deal.Business.Service.Provider.dll": {}
@@ -91,6 +93,22 @@
           }
         }
       },
+      "VSoft.Company.VDT.VDealTag.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.VDT.VDealTag.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.VDT.VDealTag.Client/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.VDT.VDealTag.Client.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
       "VegunSoft.Framework.Paging/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Paging.dll": {
@@ -156,6 +174,16 @@
       "sha512": ""
     },
     "VSoft.Company.UI.DEA.Deal.Data.DVO.Extension/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.VDT.VDealTag.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.VDT.VDealTag.Client/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
