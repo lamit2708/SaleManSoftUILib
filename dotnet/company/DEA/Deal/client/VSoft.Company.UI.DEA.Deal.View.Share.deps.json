@@ -10,6 +10,8 @@
         "dependencies": {
           "Blazored.Toast": "4.1.0",
           "Microsoft.AspNetCore.Components.Web": "7.0.4",
+          "VegunSoft.Framework.Business.Dvo": "1.0.0.1",
+          "VSoft.Company.UI.DEA.Deal.Business.Service": "1.0.0.0",
           "VSoft.Company.UI.DEA.Deal.Data.DVO": "1.0.0.0"
         },
         "runtime": {
@@ -152,11 +154,43 @@
           }
         }
       },
+      "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Business.Dvo.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.UI.DEA.Deal.Business.Service/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.DEA.Deal.Business.Service.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "VSoft.Company.UI.DEA.Deal.Data.DVO/1.0.0.0": {
         "runtime": {
           "VSoft.Company.UI.DEA.Deal.Data.DVO.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Paging.Provider.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Paging/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Paging.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
           }
         }
       }
@@ -266,7 +300,27 @@
       "path": "system.io.pipelines/7.0.0",
       "hashPath": "system.io.pipelines.7.0.0.nupkg.sha512"
     },
+    "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.DEA.Deal.Business.Service/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VSoft.Company.UI.DEA.Deal.Data.DVO/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Paging/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
