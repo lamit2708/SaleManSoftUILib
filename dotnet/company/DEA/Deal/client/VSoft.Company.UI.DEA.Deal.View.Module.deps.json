@@ -366,6 +366,22 @@
           }
         }
       },
+      "VSoft.Company.UI.CTM.Customer.View.Share/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.CTM.Customer.View.Share.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VSoft.Company.UI.USR.User.View.Share/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.USR.User.View.Share.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "VegunSoft.Framework.Display.ExtensionMethods/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Display.ExtensionMethods.dll": {
@@ -390,9 +406,57 @@
           }
         }
       },
+      "VSoft.Company.DST.DealStep.Client/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.DST.DealStep.Client.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.USR.User.Client/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.USR.User.Client.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.TEA.Team.Client/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.TEA.Team.Client.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.DST.DealStep.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.DST.DealStep.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
       "VSoft.Company.VDT.VDealTag.Business.Dto/1.0.0.1": {
         "runtime": {
           "VSoft.Company.VDT.VDealTag.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.TEA.Team.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.TEA.Team.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.USR.User.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.USR.User.Business.Dto.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -419,6 +483,38 @@
           "VegunSoft.Framework.Paging.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.UI.CTM.Customer.Business.Service/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.CTM.Customer.Business.Service.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VSoft.Company.UI.CTM.Customer.Data.DVO/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.CTM.Customer.Data.DVO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VSoft.Company.UI.USR.User.Business.Service/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.USR.User.Business.Service.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VSoft.Company.UI.USR.User.Data.DVO/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.USR.User.Data.DVO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -659,6 +755,16 @@
       "serviceable": false,
       "sha512": ""
     },
+    "VSoft.Company.UI.CTM.Customer.View.Share/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.USR.User.View.Share/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VegunSoft.Framework.Display.ExtensionMethods/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
@@ -674,7 +780,37 @@
       "serviceable": false,
       "sha512": ""
     },
+    "VSoft.Company.DST.DealStep.Client/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.USR.User.Client/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.TEA.Team.Client/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.DST.DealStep.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VSoft.Company.VDT.VDealTag.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.TEA.Team.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.USR.User.Business.Dto/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -690,6 +826,26 @@
       "sha512": ""
     },
     "VegunSoft.Framework.Paging/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.CTM.Customer.Business.Service/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.CTM.Customer.Data.DVO/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.USR.User.Business.Service/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.USR.User.Data.DVO/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
