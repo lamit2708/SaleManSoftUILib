@@ -1,0 +1,233 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VSoft.Company.UI.UCU.UserCustomer.Business.Service.Provider/1.0.0": {
+        "dependencies": {
+          "VSoft.Company.UI.UCU.UserCustomer.Business.Service": "1.0.0",
+          "VegunSoft.Framework.Api.DtoClient": "1.0.0.1",
+          "VegunSoft.Framework.Business.Dto": "1.0.0.1",
+          "VegunSoft.Framework.Business.Dvo": "1.0.0.1",
+          "VegunSoft.Framework.Paging.Provider": "1.0.0.1",
+          "VSoft.Company.TEA.Team.Business.Dto": "1.0.0.1",
+          "VSoft.Company.TEA.Team.Client": "1.0.0.1",
+          "VSoft.Company.UCU.UserCustomer.Business.Dto": "1.0.0.1",
+          "VSoft.Company.UCU.UserCustomer.Client": "1.0.0.1",
+          "VSoft.Company.UI.UCU.UserCustomer.Data.DVO.Reference": "1.0.0.0",
+          "VSoft.Company.UI.UCU.UserCustomer.Data.DVO.Extension": "1.0.0.0",
+          "VSoft.Company.USR.User.Business.Dto": "1.0.0.1",
+          "VSoft.Company.USR.User.Client": "1.0.0.1"
+        },
+        "runtime": {
+          "VSoft.Company.UI.UCU.UserCustomer.Business.Service.Provider.dll": {}
+        }
+      },
+      "VSoft.Company.UI.UCU.UserCustomer.Business.Service/1.0.0": {
+        "dependencies": {
+          "VSoft.Company.UI.UCU.UserCustomer.Data.DVO": "1.0.0"
+        },
+        "runtime": {
+          "VSoft.Company.UI.UCU.UserCustomer.Business.Service.dll": {}
+        }
+      },
+      "VegunSoft.Framework.Api.DtoClient/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Api.DtoClient.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Business.Dvo.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Paging.Provider.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.TEA.Team.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.TEA.Team.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.TEA.Team.Client/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.TEA.Team.Client.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.UCU.UserCustomer.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.UCU.UserCustomer.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.UCU.UserCustomer.Client/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.UCU.UserCustomer.Client.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.UI.UCU.UserCustomer.Data.DVO.Reference/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.UCU.UserCustomer.Data.DVO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VSoft.Company.UI.UCU.UserCustomer.Data.DVO.Extension/1.0.0.0": {
+        "runtime": {
+          "VSoft.Company.UI.UCU.UserCustomer.Data.DVO.Extension.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VSoft.Company.USR.User.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.USR.User.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.USR.User.Client/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.USR.User.Client.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Paging/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Paging.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Api.DtoClient.Cfg/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Api.DtoClient.Cfg.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VSoft.Company.UI.UCU.UserCustomer.Business.Service.Provider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.UCU.UserCustomer.Business.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Api.DtoClient/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Business.Dvo/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.TEA.Team.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.TEA.Team.Client/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UCU.UserCustomer.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UCU.UserCustomer.Client/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.UCU.UserCustomer.Data.DVO.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.UI.UCU.UserCustomer.Data.DVO.Extension/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.USR.User.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.USR.User.Client/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Paging/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Api.DtoClient.Cfg/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
